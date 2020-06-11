@@ -1,0 +1,9 @@
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\bin\Debug\netstandard2.0\CalendarEmitter.deps.json
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\bin\Debug\netstandard2.0\CalendarEmitter.dll
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\bin\Debug\netstandard2.0\CalendarEmitter.pdb
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\obj\Debug\netstandard2.0\CalendarEmitter.csprojAssemblyReference.cache
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\obj\Debug\netstandard2.0\CalendarEmitter.csproj.CoreCompileInputs.cache
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\obj\Debug\netstandard2.0\CalendarEmitter.AssemblyInfoInputs.cache
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\obj\Debug\netstandard2.0\CalendarEmitter.AssemblyInfo.cs
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\obj\Debug\netstandard2.0\CalendarEmitter.dll
+C:\Users\bmishra\source\repos\CalendarEmitter\CalendarEmitter\obj\Debug\netstandard2.0\CalendarEmitter.pdb
